@@ -1,3 +1,3 @@
-# DoS Kit
+# DoS Studies
 
-A personal toolkit to make DoS and DDoS attacks.
+Case study for creating basic DoS attacks 
